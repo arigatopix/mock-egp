@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ProjectDatas>
+    <ProjectID>
+        <FIELD1>64127335687</FIELD1>
+    </ProjectID>
+    <ConsiderDetail>
+        <FIELD1>1</FIELD1>
+        <FIELD2>รหัสพัสดุ 1020180001  เทปไฟฟ้า พีวีซี.ใช้ภายนอก ม้วนขนาด0.18x19x1000มม. มอก.386</FIELD2>
+        <FIELD3>107300.0000</FIELD3>
+        <FIELD4>207</FIELD4>
+        <FIELD5> </FIELD5>
+    </ConsiderDetail>
+    <ConsiderDetail>
+        <FIELD1>2</FIELD1>
+        <FIELD2>รหัสพัสดุ 1020180003  เทปพันเคเบิลอากาศแรงสูง ขนาด 3/4นิ้ว x 30ฟุต</FIELD2>
+        <FIELD3>73300.0000</FIELD3>
+        <FIELD4>722</FIELD4>
+        <FIELD5> </FIELD5>
+    </ConsiderDetail>
+    <ConsiderDetail>
+        <FIELD1>3</FIELD1>
+        <FIELD2>รหัสพัสดุ 1020260202  PREFORMED D/E,SAC 22kv 50sq.mm. 21.80mm</FIELD2>
+        <FIELD3>19000.0000</FIELD3>
+        <FIELD4>46</FIELD4>
+        <FIELD5> </FIELD5>
+    </ConsiderDetail>
+    <ConsiderDetail>
+        <FIELD1>4</FIELD1>
+        <FIELD2>รหัสพัสดุ 1020320005  คอนเนคเตอร์ชนิดบีบแบบเอช สำหรับสายเข้าอลูมิเนียม 35-50 ต.มม. สายแยกทองแดง 6-10 ต.มม.</FIELD2>
+        <FIELD3>80000.0000</FIELD3>
+        <FIELD4>252</FIELD4>
+        <FIELD5> </FIELD5>
+    </ConsiderDetail>
+    <ConsiderDetail>
+        <FIELD1>5</FIELD1>
+        <FIELD2>รหัสพัสดุ 1020330104 HOTLINE CLAMP,MIN35-185,TAP50-185SQ.MM.</FIELD2>
+        <FIELD3>5450.0000</FIELD3>
+        <FIELD4>46</FIELD4>
+        <FIELD5> </FIELD5>
+    </ConsiderDetail>
+    <ResponseCode>
+        <FIELD1>000</FIELD1>
+        <FIELD2>Successful</FIELD2>
+    </ResponseCode>
+</ProjectDatas>

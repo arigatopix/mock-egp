@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ProjectDatas>
+    <ProjectDetail>
+        <FIELD1>S506</FIELD1>
+        <FIELD2>S50665000013</FIELD2>
+        <FIELD3>16</FIELD3>
+        <FIELD4>01</FIELD4>
+        <FIELD5>2565</FIELD5>
+        <FIELD6>ประกวดราคาซื้ออุปกรณ์ฮาร์ดแวร์ เลขที่ N2.EB.(จซ.)-02-2565 พัสดุรองปี 2565 และตามโครงการพัฒนาระบบส่งและจำหน่าย ระยะที่ 2 แผนที่ 3 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)</FIELD6>
+        <FIELD7> </FIELD7>
+        <FIELD8> </FIELD8>
+        <FIELD9> </FIELD9>
+        <FIELD10>1 </FIELD10>
+        <FIELD11> </FIELD11>
+        <FIELD12>0</FIELD12>
+        <FIELD13>7823872.10</FIELD13>
+        <FIELD14>2</FIELD14>
+        <FIELD15>5</FIELD15>
+        <FIELD16>1018</FIELD16>
+        <FIELD17>2</FIELD17>
+        <FIELD18>2</FIELD18>
+        <FIELD19>64127335687</FIELD19>
+    </ProjectDetail>
+    <ConditionDetail>
+        <FIELD1> </FIELD1>
+        <FIELD2> </FIELD2>
+    </ConditionDetail>
+    <ConsiderDetails>
+        <FIELD1>1</FIELD1>
+        <FIELD2>รหัสพัสดุ 1020180001  เทปไฟฟ้า พีวีซี.ใช้ภายนอก ม้วนขนาด0.18x19x1000มม. มอก.386</FIELD2>
+        <FIELD3>107300.0000</FIELD3>
+        <FIELD4>207</FIELD4>
+    </ConsiderDetails>
+    <ConsiderDetails>
+        <FIELD1>2</FIELD1>
+        <FIELD2>รหัสพัสดุ 1020180003  เทปพันเคเบิลอากาศแรงสูง ขนาด 3/4นิ้ว x 30ฟุต</FIELD2>
+        <FIELD3>73300.0000</FIELD3>
+        <FIELD4>722</FIELD4>
+    </ConsiderDetails>
+    <ConsiderDetails>
+        <FIELD1>3</FIELD1>
+        <FIELD2>รหัสพัสดุ 1020260202  PREFORMED D/E,SAC 22kv 50sq.mm. 21.80mm</FIELD2>
+        <FIELD3>19000.0000</FIELD3>
+        <FIELD4>46</FIELD4>
+    </ConsiderDetails>
+    <ConsiderDetails>
+        <FIELD1>4</FIELD1>
+        <FIELD2>รหัสพัสดุ 1020320005  คอนเนคเตอร์ชนิดบีบแบบเอช สำหรับสายเข้าอลูมิเนียม 35-50 ต.มม. สายแยกทองแดง 6-10 ต.มม.</FIELD2>
+        <FIELD3>80000.0000</FIELD3>
+        <FIELD4>252</FIELD4>
+    </ConsiderDetails>
+    <ConsiderDetails>
+        <FIELD1>5</FIELD1>
+        <FIELD2>รหัสพัสดุ 1020330104 HOTLINE CLAMP,MIN35-185,TAP50-185SQ.MM.</FIELD2>
+        <FIELD3>5450.0000</FIELD3>
+        <FIELD4>46</FIELD4>
+    </ConsiderDetails>
+    <BudgetDetail>
+        <FIELD1>1</FIELD1>
+        <FIELD2>2</FIELD2>
+        <FIELD3> </FIELD3>
+        <FIELD4> </FIELD4>
+        <FIELD5>8323530.00</FIELD5>
+    </BudgetDetail>
+    <ResponseCode>
+        <FIELD1>000</FIELD1>
+        <FIELD2>Successful</FIELD2>
+    </ResponseCode>
+</ProjectDatas>

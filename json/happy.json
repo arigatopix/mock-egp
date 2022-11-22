@@ -1,0 +1,387 @@
+  {
+    "egpws0026": {
+      "announceDetail": {
+        "projectNo": "64127335687",
+        "rfqStartDate": "2022-01-27",
+        "rfqEndDate": "2022-02-10",
+        "submitBidStartDate": "2022-02-11",
+        "auctionDate": "2022-02-14",
+        "announceDate": "2022-01-27"
+      },
+      "responseCode": {
+        "code": "000",
+        "message": "Successful"
+      }
+    },
+    "egpws0016": {
+      "projectDetail": {
+        "projectName1": "ประกวดราคาซื้ออุปกรณ์ฮาร์ดแวร์ เลขที่ N2.EB.(จซ.)-02-2565 พัสดุรองปี 2565 และตามโครงการพัฒนาระบบส่งและจำหน่าย ระยะที่ 2 แผนที่ 3 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+        "priceBuildConstruction": 7823872.10,
+        "considerationMethodId": 2,
+        "totalConsiderationItems": 5,
+        "projectTypeId": 2,
+        "previousProjectNo": 64127335687
+      },
+      "budgetDetail": {
+        "budgetPrice": 8323530.00
+      },
+      "responseCode": {
+        "code": "000",
+        "message": "Successful"
+      }
+    },
+    "egpws0006": {
+      "projectId": {
+        "projectNo": "64127335687"
+      },
+      "considerDetails": [
+        {
+          "no": 1,
+          "name": "รหัสพัสดุ 1020180001  เทปไฟฟ้า พีวีซี.ใช้ภายนอก ม้วนขนาด0.18x19x1000มม. มอก.386",
+          "quantity": 107300.0000
+        },
+        {
+          "no": 2,
+          "name": "รหัสพัสดุ 1020180003  เทปพันเคเบิลอากาศแรงสูง ขนาด 3/4นิ้ว x 30ฟุต",
+          "quantity": 73300.0000
+        },
+        {
+          "no": 3,
+          "name": "รหัสพัสดุ 1020260202  PREFORMED D/E,SAC 22kv 50sq.mm. 21.80mm",
+          "quantity": 19000.0000
+        },
+        {
+          "no": 4,
+          "name": "รหัสพัสดุ 1020320005  คอนเนคเตอร์ชนิดบีบแบบเอช สำหรับสายเข้าอลูมิเนียม 35-50 ต.มม. สายแยกทองแดง 6-10 ต.มม.",
+          "quantity": 80000.0000
+        },
+        {
+          "no": 5,
+          "name": "รหัสพัสดุ 1020330104 HOTLINE CLAMP,MIN35-185,TAP50-185SQ.MM.",
+          "quantity": 5450.0000
+        }
+      ],
+      "responseCode": {
+        "code": "000",
+        "message": "Successful"
+      }
+    },
+    "egpws0022": {
+      "contractDetail": [
+        {
+          "projectNo": "64127335687",
+          "contractId": "650401001163",
+          "tin": "0105537092831",
+          "contractNo": "ซ.น2.-41/2565",
+          "contractDate": "2022-04-25",
+          "merchantName": "บริษัท ซิสเต็ม 3 จำกัด",
+          "contractPrice": 334696.00,
+          "agreePrice": 334696.00,
+          "contractConditionType": "Y",
+          "contractTotalDay": 60,
+          "contractStartDate": "2022-04-26",
+          "contractEndDate": "2022-06-24"
+        },
+        {
+          "projectNo": "64127335687",
+          "contractId": "650401001031",
+          "tin": "0105535089566",
+          "contractNo": "ซ.น2.-40/2565",
+          "contractDate": "2022-04-29",
+          "merchantName": "บริษัท จี.เค.แอสเซ็มบลี้ จำกัด",
+          "contractPrice": 334696.00,
+          "agreePrice": 334696.00,
+          "contractConditionType": "Y",
+          "contractTotalDay": 60,
+          "contractStartDate": "2022-04-30",
+          "contractEndDate": "2022-06-28"
+        },
+        {
+          "projectNo": "64127335687",
+          "contractId": "650401001167",
+          "tin": "0925558000017",
+          "contractNo": "ซ.น2.-42/2565",
+          "contractDate": "2022-05-06",
+          "merchantName": "บริษัท  เอสอีดี  ไลท์ติ้ง  แอนด์  เอ็นเนอร์ยี่  จำกัด",
+          "contractPrice": 963642.00,
+          "agreePrice": 963642.00,
+          "contractConditionType": "Y",
+          "contractTotalDay": 60,
+          "contractStartDate": "2022-05-07",
+          "contractEndDate": "2022-07-05"
+        },
+        {
+          "projectNo": "64127335687",
+          "contractId": "650401000975",
+          "tin": "0303561005419",
+          "contractNo": "ซ.น2.-39/2565",
+          "contractDate": "2022-05-06",
+          "merchantName": "สตาร์ไลท์ พลัส",
+          "contractPrice": 92428223.76,
+          "agreePrice": 2428223.76,
+          "contractConditionType": "Y",
+          "contractTotalDay": 60,
+          "contractStartDate": "2022-05-07",
+          "contractEndDate": "2022-07-05"
+        }
+      ],
+      "contractDetail4": [
+        {
+          "projectNo": "64127335687",
+          "contractId": "650401000975",
+          "no": 1,
+          "productName": "เทปพันเคเบิลอากาศแรงสูง ขนาด 3/4\"x30",
+          "quantity": 73300.0000,
+          "price": 2269368.00,
+          "isVat": "Y",
+          "vat": 158855.76,
+          "totalAmount": 2428223.76
+        },
+        {
+          "projectNo": "64127335687",
+          "contractId": "650401001031",
+          "no": 1,
+          "productName": "PREFORMED D/E,SAC 22kv 50sq.mm. 21.80mm",
+          "quantity": 19000.0000,
+          "price": 900600.00,
+          "isVat": "Y",
+          "vat": 63042.00,
+          "totalAmount": 963642.00
+        },
+        {
+          "projectNo": "64127335687",
+          "contractId": "650401001163",
+          "no": 1,
+          "productName": "คอนเนคเตอร์ชนิดบีบแบบเอช สำหรับสายเข้าอลูมิเนียม 35-50 ต.มม. สายแยกทองแดง 6-10 ต.มม.",
+          "quantity": 80000.0000,
+          "price": 312800.00,
+          "isVat": "Y",
+          "vat": 21896.00,
+          "totalAmount": 334696.00
+        },
+        {
+          "projectNo": "64127335687",
+          "contractId": "650401001167",
+          "no": 1,
+          "productName": "HOTLINE CLAMP,MAIN35-185,TAP50-185SQ.MM.",
+          "quantity": 5450.0000,
+          "price": 2425250.00,
+          "isVat": "Y",
+          "vat": 169767.50,
+          "totalAmount": 2595017.50
+        }
+      ],
+      "contractAvailable": [
+        {
+          "projectNo": "64127335687",
+          "contractId": "650401001163",
+          "winnerTin": "0105537092831",
+          "projectName": "ประกวดราคาซื้ออุปกรณ์ฮาร์ดแวร์ เลขที่ N2.EB.(จซ.)-02-2565 พัสดุรองปี 2565 และตามโครงการพัฒนาระบบส่งและจำหน่าย ระยะที่ 2 แผนที่ 3 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+          "winnerName": "บริษัท ซิสเต็ม 3 จำกัด",
+          "contractNo": "ซ.น2.-41/2565",
+          "contractDate": "2022-04-25",
+          "contractDay": 60,
+          "contractStartDate": "2022-04-26",
+          "contractEndDate": "2022-06-24",
+          "contractStatus": "C04"
+        },
+        {
+          "projectNo": "64127335687",
+          "contractId": "650401001031",
+          "winnerTin": "0105535089566",
+          "projectName": "ประกวดราคาซื้ออุปกรณ์ฮาร์ดแวร์ เลขที่ N2.EB.(จซ.)-02-2565 พัสดุรองปี 2565 และตามโครงการพัฒนาระบบส่งและจำหน่าย ระยะที่ 2 แผนที่ 3 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+          "winnerName": "บริษัท จี.เค.แอสเซ็มบลี้ จำกัด",
+          "contractNo": "ซ.น2.-40/2565",
+          "contractDate": "2022-04-29",
+          "contractDay": 60,
+          "contractStartDate": "2022-04-30",
+          "contractEndDate": "2022-06-28",
+          "contractStatus": "C04"
+        },
+        {
+          "projectNo": "64127335687",
+          "contractId": "650401001167",
+          "winnerTin": "0925558000017",
+          "projectName": "ประกวดราคาซื้ออุปกรณ์ฮาร์ดแวร์ เลขที่ N2.EB.(จซ.)-02-2565 พัสดุรองปี 2565 และตามโครงการพัฒนาระบบส่งและจำหน่าย ระยะที่ 2 แผนที่ 3 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+          "winnerName": "บริษัท  เอสอีดี  ไลท์ติ้ง  แอนด์  เอ็นเนอร์ยี่  จำกัด",
+          "contractNo": "ซ.น2.-42/2565",
+          "contractDate": "2022-05-06",
+          "contractDay": 60,
+          "contractStartDate": "2022-05-07",
+          "contractEndDate": "2022-07-05",
+          "contractStatus": "C04"
+        },
+        {
+          "projectNo": "64127335687",
+          "contractId": "650401001167",
+          "winnerTin": "0303561005419",
+          "projectName": "ประกวดราคาซื้ออุปกรณ์ฮาร์ดแวร์ เลขที่ N2.EB.(จซ.)-02-2565 พัสดุรองปี 2565 และตามโครงการพัฒนาระบบส่งและจำหน่าย ระยะที่ 2 แผนที่ 3 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+          "winnerName": "สตาร์ไลท์ พลัส",
+          "contractNo": "ซ.น2.-39/2565",
+          "contractDate": "2022-05-06",
+          "contractDay": 60,
+          "contractStartDate": "2022-05-07",
+          "contractEndDate": "2022-07-05",
+          "contractStatus": "C04"
+        }
+      ],
+      "contractDelivery": [
+        {
+          "projectNo": "64127335687",
+          "contractId": "650401001163",
+          "deliveryListNo": "650400489297",
+          "termNo": 1,
+          "deliveryDate": "2022-07-22",
+          "deliveryActualDate": "",
+          "deliveryDetail": "2022-07-22"
+        },
+        {
+          "projectNo": "64127335687",
+          "contractId": "650401001167",
+          "deliveryListNo": "650500341395",
+          "termNo": 1,
+          "deliveryDate": "2022-07-22",
+          "deliveryActualDate": "",
+          "deliveryDetail": "2022-07-22"
+        },
+        {
+          "projectNo": "64127335687",
+          "contractId": "650401001031",
+          "deliveryListNo": "650400641859",
+          "termNo": 1,
+          "deliveryDate": "2022-08-02",
+          "deliveryActualDate": "",
+          "deliveryDetail": "2022-08-02"
+        },
+        {
+          "projectNo": "64127335687",
+          "contractId": "650401000975",
+          "deliveryListNo": "650500343645",
+          "termNo": 1,
+          "deliveryDate": "2022-08-15",
+          "deliveryActualDate": "",
+          "deliveryDetail": "2022-08-15"
+        }
+      ],
+      "contractCollection": [
+        {
+          "projectNo": "64127335687",
+          "contractId": "650401001163",
+          "deliveryListNo": "650400489297",
+          "paymentTermNo": 1,
+          "collectionName": "รหัสพัสดุ 1020320005  คอนเนคเตอร์ชนิดบีบแบบเอช สำหรับสายเข้าอลูมิเนียม 35-50 ต.มม. สายแยกทองแดง 6-10 ต.มม.",
+          "totalAmount": 334696.00,
+          "payAmount": 334696.00
+        },
+        {
+          "projectNo": "64127335687",
+          "contractId": "650401001031",
+          "deliveryListNo": "650400641859",
+          "paymentTermNo": 1,
+          "collectionName": "รหัสพัสดุ 1020260202  PREFORMED D/E,SAC 22kv 50sq.mm. 21.80mm",
+          "totalAmount": 963642.00,
+          "payAmount": 963642.00
+        },
+        {
+          "projectNo": "64127335687",
+          "contractId": "650401001167",
+          "deliveryListNo": "650500341395",
+          "paymentTermNo": 1,
+          "collectionName": "รหัสพัสดุ 1020330104 HOTLINE CLAMP,MIN35-185,TAP50-185SQ.MM.",
+          "totalAmount": 2595017.50,
+          "payAmount": 2595017.50
+        },
+        {
+          "projectNo": "64127335687",
+          "contractId": "650401000975",
+          "deliveryListNo": "650500343645",
+          "paymentTermNo": 1,
+          "collectionName": "รหัสพัสดุ 1020180003  เทปพันเคเบิลอากาศแรงสูง ขนาด 3/4นิ้ว x 30ฟุต เมื่อได้ส่งมอบงานครบถ้วนตามสัญญานั้น",
+          "totalAmount": 2428223.76,
+          "payAmount": 2428223.76
+        }
+      ],
+      "contractBudget": [
+        {
+          "projectNo": "64127335687",
+          "contractId": "650401001163",
+          "deliveryListNo": "650400489297",
+          "paymentTermNo": 1,
+          "no": 1,
+          "budgetYear": "2565",
+          "budgetTypeId": 2,
+          "projectMoney": 8323530.00,
+          "paymentTermAmount": 334696.00
+        },
+        {
+          "projectNo": "64127335687",
+          "contractId": "650401001031",
+          "deliveryListNo": "650400641859",
+          "paymentTermNo": 1,
+          "no": 1,
+          "budgetYear": "2565",
+          "budgetTypeId": 2,
+          "projectMoney": 8323530.00,
+          "paymentTermAmount": 963642.00
+        },
+        {
+          "projectNo": "64127335687",
+          "contractId": "650401001167",
+          "deliveryListNo": "650500341395",
+          "paymentTermNo": 1,
+          "no": 1,
+          "budgetYear": "2565",
+          "budgetTypeId": 2,
+          "projectMoney": 8323530.00,
+          "paymentTermAmount": 2595017.00
+        },
+        {
+          "projectNo": "64127335687",
+          "contractId": "650401000975",
+          "deliveryListNo": "650500343645",
+          "paymentTermNo": 1,
+          "no": 1,
+          "budgetYear": "2565",
+          "budgetTypeId": 2,
+          "projectMoney": 8323530.00,
+          "paymentTermAmount": 2428223.00
+        }
+      ],
+      "contractReference": [
+        {
+          "projectNo": "64127335687",
+          "contractId": "650401001163",
+          "deliveryListNo": "650400489297",
+          "paymentTermNo": 1,
+          "termNo": 1
+        },
+        {
+          "projectNo": "64127335687",
+          "contractId": "650401001031",
+          "deliveryListNo": "650400641859",
+          "paymentTermNo": 1,
+          "termNo": 1
+        },
+        {
+          "projectNo": "64127335687",
+          "contractId": "650401001167",
+          "deliveryListNo": "650500341395",
+          "paymentTermNo": 1,
+          "termNo": 1
+        },
+        {
+          "projectNo": "64127335687",
+          "contractId": "650401000975",
+          "deliveryListNo": "650500343645",
+          "paymentTermNo": 1,
+          "termNo": 1
+        }
+      ],
+      "responseCode": {
+        "code": "000",
+        "message": "Successful"
+      }
+    },
+    "code": 200,
+    "message": "ok"
+  }

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ProjectDatas>
+    <ProjectDetail>
+        <FIELD1>S506</FIELD1>
+        <FIELD2>S50665000013</FIELD2>
+        <FIELD3>16</FIELD3>
+        <FIELD4>01</FIELD4>
+        <FIELD5>2565</FIELD5>
+        <FIELD6>ประกวดราคาซื้อหม้อแปลงไฟฟ้า งบผู้ใช้ไฟ จำนวน 4 รายการ เลขที่ N2.EB.(จซ.)-13-2565 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)</FIELD6>
+        <FIELD7> </FIELD7>
+        <FIELD8> </FIELD8>
+        <FIELD9> </FIELD9>
+        <FIELD10>1 </FIELD10>
+        <FIELD11> </FIELD11>
+        <FIELD12>0</FIELD12>
+        <FIELD13>26461100.00</FIELD13>
+        <FIELD14>2</FIELD14>
+        <FIELD15>4</FIELD15>
+        <FIELD16>1018</FIELD16>
+        <FIELD17>2</FIELD17>
+        <FIELD18>2</FIELD18>
+        <FIELD19>65097330309</FIELD19>
+    </ProjectDetail>
+    <ConditionDetail>
+        <FIELD1> </FIELD1>
+        <FIELD2> </FIELD2>
+    </ConditionDetail>
+    <ConsiderDetails>
+        <FIELD1>1</FIELD1>
+        <FIELD2>รหัส 1050000011 TR., 30 KVA,1P,22-0.48/0.24 KV,SC</FIELD2>
+        <FIELD3>100.0000</FIELD3>
+        <FIELD4>132</FIELD4>
+    </ConsiderDetails>
+    <ConsiderDetails>
+        <FIELD1>2</FIELD1>
+        <FIELD2>รหัส 1050010066 TR.,50 KVA, 3P,22-0.416/0.24 KV DYN 11,SC</FIELD2>
+        <FIELD3>30.0000</FIELD3>
+        <FIELD4>132</FIELD4>
+    </ConsiderDetails>
+    <ConsiderDetails>
+        <FIELD1>3</FIELD1>
+        <FIELD2>รหัส 1050010067 TR.,100 KVA, 3P,22-0.416/0.24 KV DYN 11,SC</FIELD2>
+        <FIELD3>30.0000</FIELD3>
+        <FIELD4>132</FIELD4>
+    </ConsiderDetails>
+    <ConsiderDetails>
+        <FIELD1>4</FIELD1>
+        <FIELD2>รหัส 1050010068 TR.,160 KVA, 3P,22-0.416/0.24 KV DYN 11,SC</FIELD2>
+        <FIELD3>10.0000</FIELD3>
+        <FIELD4>132</FIELD4>
+    </ConsiderDetails>
+    <BudgetDetail>
+        <FIELD1>1</FIELD1>
+        <FIELD2>2</FIELD2>
+        <FIELD3> </FIELD3>
+        <FIELD4> </FIELD4>
+        <FIELD5>26461100.00</FIELD5>
+    </BudgetDetail>
+    <ResponseCode>
+        <FIELD1>000</FIELD1>
+        <FIELD2>Successful</FIELD2>
+    </ResponseCode>
+</ProjectDatas>

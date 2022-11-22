@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ProjectDatas>
+    <ProjectID>
+        <FIELD1>65097330309</FIELD1>
+    </ProjectID>
+    <ConsiderDetail>
+        <FIELD1>1</FIELD1>
+        <FIELD2>รหัส 1050000011 TR., 30 KVA,1P,22-0.48/0.24 KV,SC</FIELD2>
+        <FIELD3>100.0000</FIELD3>
+        <FIELD4>132</FIELD4>
+        <FIELD5> </FIELD5>
+    </ConsiderDetail>
+    <ConsiderDetail>
+        <FIELD1>2</FIELD1>
+        <FIELD2>รหัส 1050010066 TR.,50 KVA, 3P,22-0.416/0.24 KV DYN 11,SC</FIELD2>
+        <FIELD3>30.0000</FIELD3>
+        <FIELD4>132</FIELD4>
+        <FIELD5> </FIELD5>
+    </ConsiderDetail>
+    <ConsiderDetail>
+        <FIELD1>3</FIELD1>
+        <FIELD2>รหัส 1050010067 TR.,100 KVA, 3P,22-0.416/0.24 KV DYN 11,SC</FIELD2>
+        <FIELD3>30.0000</FIELD3>
+        <FIELD4>132</FIELD4>
+        <FIELD5> </FIELD5>
+    </ConsiderDetail>
+    <ConsiderDetail>
+        <FIELD1>4</FIELD1>
+        <FIELD2>รหัส 1050010068 TR.,160 KVA, 3P,22-0.416/0.24 KV DYN 11,SC</FIELD2>
+        <FIELD3>10.0000</FIELD3>
+        <FIELD4>132</FIELD4>
+        <FIELD5> </FIELD5>
+    </ConsiderDetail>
+    <ResponseCode>
+        <FIELD1>000</FIELD1>
+        <FIELD2>Successful</FIELD2>
+    </ResponseCode>
+</ProjectDatas>

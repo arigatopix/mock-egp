@@ -1,0 +1,73 @@
+{
+  "egpws0026": {
+    "announceDetail": {
+      "projectNo": "65097330309",
+      "rfqStartDate": "2022-10-19",
+      "rfqEndDate": "2022-10-28",
+      "submitBidStartDate": "2022-10-31",
+      "auctionDate": "2022-11-01",
+      "announceDate": "2022-10-19"
+    },
+    "responseCode": {
+      "code": "000",
+      "message": "Successful"
+    }
+  },
+  "egpws0016": {
+    "projectDetail": {
+      "projectName1": "ประกวดราคาซื้อหม้อแปลงไฟฟ้า งบผู้ใช้ไฟ จำนวน 4 รายการ เลขที่ N2.EB.(จซ.)-13-2565 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+      "priceBuildConstruction": 26461100.00,
+      "considerationMethodId": 2,
+      "totalConsiderationItems": 4,
+      "projectTypeId": 2,
+      "previousProjectNo": "65097330309"
+    },
+    "budgetDetail": {
+      "budgetPrice": 26461100.00
+    },
+    "responseCode": {
+      "code": "000",
+      "message": "Successful"
+    }
+  },
+  "egpws0006": {
+    "projectId": {
+      "projectNo": "65097330309"
+    },
+    "considerDetails": [
+      {
+        "no": 1,
+        "name": "รหัส 1050000011 TR., 30 KVA,1P,22-0.48/0.24 KV,SC",
+        "quantity": 100.0000
+      },
+      {
+        "no": 2,
+        "name": "รหัส 1050010066 TR.,50 KVA, 3P,22-0.416/0.24 KV DYN 11,SC",
+        "quantity": 30.0000
+      },
+      {
+        "no": 3,
+        "name": "รหัส 1050010067 TR.,100 KVA, 3P,22-0.416/0.24 KV DYN 11,SC",
+        "quantity": 30.0000
+      },
+      {
+        "no": 4,
+        "name": "รรหัส 1050010068 TR.,160 KVA, 3P,22-0.416/0.24 KV DYN 11,SC",
+        "quantity": 10.0000
+      }
+    ],
+    "responseCode": {
+      "code": "000",
+      "message": "Successful"
+    }
+  },
+  "egpws0022": {
+    "projectId": "65097330309",
+    "responseCode": {
+      "code": "112",
+      "message": "ไม่พบข้อมูลสัญญา"
+    }
+  },
+  "code": 200,
+  "message": "ok"
+}
