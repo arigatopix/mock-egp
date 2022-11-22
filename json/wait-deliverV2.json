@@ -1,0 +1,237 @@
+{
+  "egpws0026": {
+    "announceDetail": {
+      "projectNo": "65067173542",
+      "rfqStartDate": "2022-08-16",
+      "rfqEndDate": "2022-08-25",
+      "submitBidStartDate": "2022-08-26",
+      "auctionDate": "2022-08-29",
+      "announceDate": "2022-08-16"
+    }
+  },
+  "egpws0016": {
+    "projectDetail": {
+      "projectName1": "ประกวดราคาซื้อหม้อแปลงไฟฟ้า จำนวน 4 รายการ (Open-ended Contract) เลขที่ N2.EB.(จซ.)-09-2565 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+      "priceBuildConstruction": 62343015.10,
+      "considerationMethodId": 2,
+      "totalConsiderationItems": 4,
+      "projectTypeId": 2,
+      "previousProjectNo": "65067173542"
+    },
+    "budgetDetail": {
+      "budgetPrice": 62343015.00
+    }
+  },
+  "egpws0006": {
+    "projectId": {
+      "projectNo": "65067173542"
+    },
+    "considerDetails": [
+      {
+        "no": 1,
+        "name": "รหัสพัสดุ 1050000011  TR., 30 KVA,1P,22-0.48/0.24 KV,SC",
+        "quantity": 316.0000
+      },
+      {
+        "no": 2,
+        "name": "รหัสพัสดุ 1050010066  TR.,50 KVA, 3P,22-0.416/0.24 KV DYN 11,SC",
+        "quantity": 70.0000
+      },
+      {
+        "no": 3,
+        "name": "รหัสพัสดุ 1050010067  TR.,100 KVA, 3P,22-0.416/0.24 KV DYN 11,SC",
+        "quantity": 33.0000
+      }
+    ]
+  },
+  "egpws0022": {
+    "contractDetail": [
+      {
+        "projectNo": "65067173542",
+        "contractId": "651004000773",
+        "tin": "0105530050467",
+        "contractNo": "จซ.น2.-115/2565",
+        "contractDate": "2022-11-18",
+        "merchantName": "บริษัท เอกรัฐ การตลาด จำกัด",
+        "contractPrice": 3639070.00,
+        "agreePrice": 3639070.00,
+        "contractConditionType": "Y",
+        "contractTotalDay": 365,
+        "contractStartDate": "2022-11-19",
+        "contractEndDate": "2023-11-18"
+      },
+      {
+        "projectNo": "65067173542",
+        "contractId": "651004001117",
+        "tin": "0105563160156",
+        "contractNo": "ซ.น2.-113/2565",
+        "contractDate": "2022-11-18",
+        "merchantName": "บริษัท พรีไซซ สมาร์ท กริด โปรดักส์ แอนด์ เซอร์วิส จำกัด",
+        "contractPrice": 22990020.00,
+        "agreePrice": 22990020.00,
+        "contractConditionType": "Y",
+        "contractTotalDay": 366,
+        "contractStartDate": "2022-11-19",
+        "contractEndDate": "2023-11-19"
+      },
+      {
+        "projectNo": "65067173542",
+        "contractId": "651004001126",
+        "tin": "0115536007130",
+        "contractNo": "ซ.น2.-114/2565",
+        "contractDate": "2022-11-18",
+        "merchantName": "บริษัท เอเซีย ทราโฟ จำกัด",
+        "contractPrice": 6439827.00,
+        "agreePrice": 6439827.00,
+        "contractConditionType": "Y",
+        "contractTotalDay": 366,
+        "contractStartDate": "2022-11-19",
+        "contractEndDate": "2022-11-19"
+      }
+    ],
+    "contractDetail4": [
+      {
+        "projectNo": "65067173542",
+        "contractId": "651004000773",
+        "no": 1,
+        "productName": "หม้อแปลงไฟฟ้า รหัส 1050010068 TR.,160 KVA, 3P,22-0.416/0.24 KV DYN 11,SC",
+        "quantity": 19.0000,
+        "price": 3401000.00,
+        "isVat": "Y",
+        "vat": 238070.00,
+        "totalAmount": 3639070.00
+      },
+      {
+        "projectNo": "65067173542",
+        "contractId": "651004001117",
+        "no": 1,
+        "productName": "หม้อแปลงไฟฟ้า จำนวน2 รายการ",
+        "quantity": 2.0000,
+        "price": 21486000.00,
+        "isVat": "Y",
+        "vat": 1504020.00,
+        "totalAmount": 22990020.00
+      },
+      {
+        "projectNo": "65067173542",
+        "contractId": "651004001126",
+        "no": 1,
+        "productName": "หม้อแปลงไฟฟ้า รหัส 1050010066 TR.,50 KVA, 3P,22-0.416/0.24 KV DYN 11,SC",
+        "quantity": 70.0000,
+        "price": 6018530.00,
+        "isVat": "Y",
+        "vat": 421297.10,
+        "totalAmount": 6439827.10
+      }
+    ],
+    "contractAvailable": [
+      {
+        "projectNo": "65067173542",
+        "contractId": "651004000773",
+        "winnerTin": "0105530050467",
+        "projectName": "ประกวดราคาซื้อหม้อแปลงไฟฟ้า จำนวน 4 รายการ (Open-ended Contract) เลขที่ N2.EB.(จซ.)-09-2565 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+        "winnerName": "บริษัท เอกรัฐ การตลาด จำกัด",
+        "contractNo": "จซ.น2.-115/2565",
+        "contractDate": "2022-11-18",
+        "contractDay": 365,
+        "contractStartDate": "2022-11-19",
+        "contractEndDate": "2023-11-18",
+        "contractStatus": "C01"
+      },
+      {
+        "projectNo": "65067173542",
+        "contractId": "651004001117",
+        "winnerTin": "0105563160156",
+        "projectName": "ประกวดราคาซื้อหม้อแปลงไฟฟ้า จำนวน 4 รายการ (Open-ended Contract) เลขที่ N2.EB.(จซ.)-09-2565 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+        "winnerName": "บริษัท พรีไซซ สมาร์ท กริด โปรดักส์ แอนด์ เซอร์วิส จำกัด",
+        "contractNo": "จซ.น2.-113/2565",
+        "contractDate": "2022-11-18",
+        "contractDay": 366,
+        "contractStartDate": "2022-11-19",
+        "contractEndDate": "2023-11-19",
+        "contractStatus": "C01"
+      },
+      {
+        "projectNo": "65067173542",
+        "contractId": "651004001126",
+        "winnerTin": "0115536007130",
+        "projectName": "ประกวดราคาซื้อหม้อแปลงไฟฟ้า จำนวน 4 รายการ (Open-ended Contract) เลขที่ N2.EB.(จซ.)-09-2565 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+        "winnerName": "บริษัท เอเซีย ทราโฟ จำกัด",
+        "contractNo": "จซ.น2.-114/2565",
+        "contractDate": "2022-11-18",
+        "contractDay": 366,
+        "contractStartDate": "2022-11-19",
+        "contractEndDate": "2023-11-19",
+        "contractStatus": "C01"
+      }
+    ],
+    "contractDelivery": [
+      {
+        "projectNo": " ",
+        "contractId": " ",
+        "deliveryListNo": " ",
+        "termNo": " ",
+        "deliveryDate": " ",
+        "deliveryActualDate": " ",
+        "deliveryDetail": " "
+      }
+    ],
+    "contractCollection": [
+      {
+        "projectNo": " ",
+        "contractId": " ",
+        "deliveryListNo": " ",
+        "paymentTermNo": " ",
+        "collectionName": " ",
+        "totalAmount": " ",
+        "payAmount": " "
+      }
+    ],
+    "contractBudget": [
+      {
+        "projectNo": "65067173542",
+        "contractId": "651004000773",
+        "deliveryListNo": 1,
+        "paymentTermNo": 1,
+        "no": 1,
+        "budgetYear": "2565",
+        "budgetTypeId": 2,
+        "projectMoney": 62343015.00,
+        "paymentTermAmount": 3639070.00
+      },
+      {
+        "projectNo": "65067173542",
+        "contractId": "651004001117",
+        "deliveryListNo": 1,
+        "paymentTermNo": 1,
+        "no": 1,
+        "budgetYear": "2565",
+        "budgetTypeId": 2,
+        "projectMoney": 62343015.00,
+        "paymentTermAmount": 22990020.00
+      },
+      {
+        "projectNo": "65067173542",
+        "contractId": "651004001126",
+        "deliveryListNo": 1,
+        "paymentTermNo": 1,
+        "no": 1,
+        "budgetYear": "2565",
+        "budgetTypeId": 2,
+        "projectMoney": 62343015.00,
+        "paymentTermAmount": 6439827.00
+      }
+    ],
+    "contractReference": [
+      {
+        "projectNo": " ",
+        "contractId": " ",
+        "deliveryListNo": " ",
+        "paymentTermNo": " ",
+        "termNo": " "
+      }
+    ]
+  },
+  "code": 200,
+  "message": "ok"
+}
