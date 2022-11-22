@@ -1,5 +1,5 @@
 {
-  "egpws026": {
+  "egpws0026": {
     "announceDetail": {
       "projectNo": "65067173542",
       "rfqStartDate": "2022-08-16",
@@ -13,7 +13,7 @@
       "message": "Successful"
     }
   },
-  "egpws016": {
+  "egpws0016": {
     "projectDetail": {
       "projectName1": "ประกวดราคาซื้อหม้อแปลงไฟฟ้า จำนวน 4 รายการ (Open-ended Contract) เลขที่ N2.EB.(จซ.)-09-2565 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
       "priceBuildConstruction": 62343015.10,
@@ -30,7 +30,7 @@
       "message": "Successful"
     }
   },
-  "egpws006": {
+  "egpws0006": {
     "projectId": {
       "projectNo": "65067173542"
     },
@@ -56,7 +56,7 @@
       "message": "Successful"
     }
   },
-  "egpws022": {
+  "egpws0022": {
     "contractDetail": [
       {
         "projectNo": "65067173542",
