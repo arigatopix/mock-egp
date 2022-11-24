@@ -1,0 +1,429 @@
+{
+  "egpws0026": {
+    "announceDetail": {
+      "projectNo": "65037497082",
+      "rfqStartDate": "2022-04-25",
+      "rfqEndDate": "2022-05-05",
+      "submitBidStartDate": "2022-05-06",
+      "auctionDate": "2022-05-09",
+      "announceDate": "2022-04-25"
+    }
+  },
+  "egpws0016": {
+    "projectDetail": {
+      "projectName1": "ประกวดราคาซื้ออุปกรณ์ฮาร์ดแวร์ เลขที่ N2.EB.(จซ.)-06-2565 พัสดุรองปี 2565 และตามโครงการพัฒนาระบบส่งและจำหน่าย ระยะที่ 2 แผนที่ 3 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+      "priceBuildConstruction": 21654732.23,
+      "considerationMethodId": 2,
+      "totalConsiderationItems": 13,
+      "projectTypeId": 2,
+      "previousProjectNo": "65037497082"
+    },
+    "budgetDetail": {
+      "budgetPrice": 23643255.00
+    }
+  },
+  "egpws0006": {
+    "projectId": {
+      "projectNo": "65037497082"
+    },
+    "considerDetails": [
+      {
+        "no": 1,
+        "name": "รหัส 1020200000 ลวดอลูมิเนียมแบน 1x10 มม.",
+        "quantity": 27650.0000
+      },
+      {
+        "no": 2,
+        "name": "รหัส 1020200003 ",
+        "quantity": 110500.0000
+      },
+      {
+        "no": 3,
+        "name": "รหัส 1020300101 พีจี. คอนเนคเตอร์สลักคู่ สำหรับสายอลูมิเนียม-อลูมิเนียมอัลลอย และ อลูมิเนียมแกนเหล็ก 16-70 ต.มม.",
+        "quantity": 5000.0000
+      },
+      {
+        "no": 4,
+        "name": "รหัส 1020300102 พีจี. คอนเนคเตอร์สลักคู่ สำหรับสายอลูมิเนียม อลูมิเนียมอัลลอย และ อลูมิเนียมแกนเหล็ก 25-95 ต.มม.",
+        "quantity": 142000.0000
+      },
+      {
+        "no": 5,
+        "name": "รหัส 1020300103 พีจี. คอนเนคเตอร์ 3 สลัก สำหรับสายอลูมิเนียม อลูมิเนียมอัลลอย และ อลูมิเนียมแกนเหล็ก 70-185 ต.มม.",
+        "quantity": 3550.0000
+      },
+      {
+        "no": 6,
+        "name": "รหัส 1020310001 คอนเนคเตอร์เข้าปลายสายอลูมิเนียม 50-70 ต.มม.",
+        "quantity": 49000.0000
+      },
+      {
+        "no": 7,
+        "name": "รหัส 1020310002 คอนเนคเตอร์เข้าปลายสายอลูมิเนียม 95-120 ต.มม.",
+        "quantity": 25500.0000
+      },
+      {
+        "no": 8,
+        "name": "รหัส 1020320003 คอนเนคเตอร์ชนิดบีบแบบเอช สำหรับสายเข้าอลูมิเนียม 50-95 ต.มม.  สายแยกอลูมิเนียมหรือทองแดง 50-95 ต.มม.",
+        "quantity": 193250.0000
+      },
+      {
+        "no": 9,
+        "name": "รหัส 1020410007 หลอดต่อสายชนิดบีบ ไม่รับแรงดึงสายอลูมิเนียม 185 ต.มม.",
+        "quantity": 6500.0000
+      },
+      {
+        "no": 10,
+        "name": "รหัส 1020420102 หางปลา เจาะรูตามมาตรฐานเนม่า สำหรับสายอลูมิเนียม 50 ต.มม.",
+        "quantity": 25650.0000
+      },
+      {
+        "no": 11,
+        "name": "รหัส 1020420104 หางปลา เจาะรูตามมาตรฐานเนม่า สำหรับสายอลูมิเนียม 95 ต.มม.",
+        "quantity": 4000.0000
+      },
+      {
+        "no": 12,
+        "name": ">รหัส 1020440112 เหล็กคอนเคเบิลอากาศทางโค้ง ระบบ 22 เควี และ 33 เควี",
+        "quantity": 4150.0000
+      },
+      {
+        "no": 13,
+        "name": "รหัส 1040020100 ฟิวส์สวิตช์แรงต่ำ 1x400 แอมป์ 500 โวลท์",
+        "quantity": 4500.0000
+      }
+    ]
+  },
+  "egpws0022": {
+    "contractDetail": [
+      {
+        "projectNo": "65037497082",
+        "contractId": "650801003813",
+        "tin": "0105540014145",
+        "contractNo": "ซ.น2.-82/2565",
+        "contractDate": "2022-08-22",
+        "merchantName": ">บริษัท  เพรส  ควอลิตี้  จำกัด",
+        "contractPrice": 5621539.79,
+        "agreePrice": 5621539.79,
+        "contractConditionType": "Y",
+        "contractTotalDay": 60,
+        "contractStartDate": "2022-08-23",
+        "contractEndDate": "2022-10-21"
+      },
+      {
+        "projectNo": "65037497082",
+        "contractId": "650801005046",
+        "tin": "0105563160156",
+        "contractNo": "ซ.น2.-81/2565",
+        "contractDate": "2022-08-29",
+        "merchantName": "บริษัท พรีไซซ สมาร์ท กริด โปรดักส์ แอนด์ เซอร์วิส จำกัด",
+        "contractPrice": 2455650.00,
+        "agreePrice": 2455650.00,
+        "contractConditionType": "Y",
+        "contractTotalDay": 60,
+        "contractStartDate": "2022-08-30",
+        "contractEndDate": "2022-10-28"
+      },
+      {
+        "projectNo": "65037497082",
+        "contractId": "650801003808",
+        "tin": "0103526011779",
+        "contractNo": "ซ.น2.-83/2565",
+        "contractDate": "2022-08-22",
+        "merchantName": "ห้างหุ้นส่วนจำกัด ส.กมลเทรดดิ้ง",
+        "contractPrice": 1064115.00,
+        "agreePrice": 1064115.00,
+        "contractConditionType": "Y",
+        "contractTotalDay": 60,
+        "contractStartDate": "2022-08-23",
+        "contractEndDate": "2022-10-21"
+      },
+      {
+        "projectNo": "65037497082",
+        "contractId": "650801005053",
+        "tin": "0105537092831",
+        "contractNo": "ซ.น2.-80/2565",
+        "contractDate": "2022-09-14",
+        "merchantName": "บริษัท ซิสเต็ม 3 จำกัด",
+        "contractPrice": 6924613.07,
+        "agreePrice": 6924613.07,
+        "contractConditionType": "Y",
+        "contractTotalDay": 60,
+        "contractStartDate": "2022-09-15",
+        "contractEndDate": "2022-11-13"
+      }
+    ],
+    "contractDetail4": [
+      {
+        "projectNo": "65067173542",
+        "contractId": "650801003808",
+        "no": 1,
+        "productName": "อุปกรณ์ฮาร์ดแวร์ เลขที่ N2.EB.(จซ.)-06-2565 พัสดุรองปี 2565 และตามโครงการพัฒนาระบบส่งและจำหน่าย ระยะที่ 2 แผนที่ 3 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+        "quantity": 110500.0000,
+        "price": 994500.00,
+        "isVat": "Y",
+        "vat": 69615.00,
+        "totalAmount": 1064115.00
+      },
+      {
+        "projectNo": "65067173542",
+        "contractId": "650801003813",
+        "no": 1,
+        "productName": "อุปกรณ์ฮาร์ดแวร์ เลขที่ N2.EB.(จซ.)-06-2565 พัสดุรองปี 2565 และตามโครงการพัฒนาระบบส่งและจำหน่าย ระยะที่ 2 แผนที่ 3 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+        "quantity": 4150.0000,
+        "price": 5253775.50,
+        "isVat": "Y",
+        "vat": 367764.29,
+        "totalAmount": 5621539.79
+      },
+      {
+        "projectNo": "65067173542",
+        "contractId": "650801005046",
+        "no": 1,
+        "productName": "อุปกรณ์ฮาร์ดแวร์ เลขที่ N2.EB.(จซ.)-06-2565 พัสดุรองปี 2565 และตามโครงการพัฒนาระบบส่งและจำหน่าย ระยะที่ 2 แผนที่ 3 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+        "quantity": 4500.0000,
+        "price": 2295000.00,
+        "isVat": "Y",
+        "vat": 160650.00,
+        "totalAmount": 2455650.00
+      },
+      {
+        "projectNo": "65067173542",
+        "contractId": "650801003808",
+        "no": 1,
+        "productName": "",
+        "quantity": 2.0000,
+        "price": 6471601.00,
+        "isVat": "Y",
+        "vat": 453012.07,
+        "totalAmount": 6924613.07
+      }
+    ],
+    "contractAvailable": [
+      {
+        "projectNo": "65037497082",
+        "contractId": "650801003813",
+        "winnerTin": "0105540014145",
+        "projectName": "ประกวดราคาซื้ออุปกรณ์ฮาร์ดแวร์ เลขที่ N2.EB.(จซ.)-06-2565 พัสดุรองปี 2565 และตามโครงการพัฒนาระบบส่งและจำหน่าย ระยะที่ 2 แผนที่ 3 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+        "winnerName": "บริษัท  เพรส  ควอลิตี้  จำกัด",
+        "contractNo": "ซ.น2.-82/2565",
+        "contractDate": "2022-08-22",
+        "contractDay": 60,
+        "contractStartDate": "2022-08-23",
+        "contractEndDate": "2022-10-21",
+        "contractStatus": "C02"
+      },
+      {
+        "projectNo": "65037497082",
+        "contractId": "650801003808",
+        "winnerTin": "0103526011779",
+        "projectName": "ประกวดราคาซื้ออุปกรณ์ฮาร์ดแวร์ เลขที่ N2.EB.(จซ.)-06-2565 พัสดุรองปี 2565 และตามโครงการพัฒนาระบบส่งและจำหน่าย ระยะที่ 2 แผนที่ 3 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+        "winnerName": "ห้างหุ้นส่วนจำกัด ส.กมลเทรดดิ้ง",
+        "contractNo": "ซ.น2.-83/2565",
+        "contractDate": "2022-08-22",
+        "contractDay": 60,
+        "contractStartDate": "2022-08-23",
+        "contractEndDate": "2022-10-21",
+        "contractStatus": "C02"
+      },
+      {
+        "projectNo": "65037497082",
+        "contractId": "650801005046",
+        "winnerTin": "0105563160156",
+        "projectName": "ประกวดราคาซื้ออุปกรณ์ฮาร์ดแวร์ เลขที่ N2.EB.(จซ.)-06-2565 พัสดุรองปี 2565 และตามโครงการพัฒนาระบบส่งและจำหน่าย ระยะที่ 2 แผนที่ 3 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+        "winnerName": "บริษัท พรีไซซ สมาร์ท กริด โปรดักส์ แอนด์ เซอร์วิส จำกัด",
+        "contractNo": "ซ.น2.-81/2565<",
+        "contractDate": "2022-08-29",
+        "contractDay": 60,
+        "contractStartDate": "2022-08-30",
+        "contractEndDate": "2022-10-28",
+        "contractStatus": "C02"
+      },
+      {
+        "projectNo": "65037497082",
+        "contractId": "650801005053",
+        "winnerTin": "0105537092831",
+        "projectName": "ประกวดราคาซื้ออุปกรณ์ฮาร์ดแวร์ เลขที่ N2.EB.(จซ.)-06-2565 พัสดุรองปี 2565 และตามโครงการพัฒนาระบบส่งและจำหน่าย ระยะที่ 2 แผนที่ 3 ด้วยวิธีประกวดราคาอิเล็กทรอนิกส์ (e-bidding)",
+        "winnerName": "บริษัท ซิสเต็ม 3 จำกัด",
+        "contractNo": "ซ.น2.-80/2565",
+        "contractDate": "2022-09-14",
+        "contractDay": 60,
+        "contractStartDate": "2022-09-15",
+        "contractEndDate": "2022-11-13",
+        "contractStatus": "C01"
+      }
+    ],
+    "contractDelivery": [
+      {
+        "projectNo": "65037497082",
+        "contractId": "650801003813",
+        "deliveryListNo": "650800891579",
+        "termNo": 1,
+        "deliveryDate": "2022-09-07",
+        "deliveryActualDate": "",
+        "deliveryDetail": "2022-09-07"
+      },
+      {
+        "projectNo": "65037497082",
+        "contractId": "650801005046",
+        "deliveryListNo": "650801230323",
+        "termNo": 1,
+        "deliveryDate": "2022-09-23",
+        "deliveryActualDate": "",
+        "deliveryDetail": "2022-09-23"
+      },
+      {
+        "projectNo": "65037497082",
+        "contractId": "650801003808",
+        "deliveryListNo": "650800882102",
+        "termNo": 1,
+        "deliveryDate": "2022-10-19",
+        "deliveryActualDate": "",
+        "deliveryDetail": "2022-10-19"
+      }
+    ],
+    "contractCollection": [
+      {
+        "projectNo": "65037497082",
+        "contractId": "650801003808",
+        "deliveryListNo": "650800882102",
+        "paymentTermNo": 1,
+        "collectionName": "รหัส 1020200003 COVERED TIE WIRE.AL.4.0 MM.",
+        "totalAmount": 1064115.00,
+        "payAmount": 1064115.00
+      },
+      {
+        "projectNo": "65037497082",
+        "contractId": "650801003813",
+        "deliveryListNo": "650800891579",
+        "paymentTermNo": 1,
+        "collectionName": "รหัส 1020440112 เหล็กคอนเคเบิลอากาศทางโค้ง ระบบ 22 เควี และ 33 เควี",
+        "totalAmount": 5621539.79,
+        "payAmount": 5621539.79
+      },
+      {
+        "projectNo": "65037497082",
+        "contractId": "650801005053",
+        "deliveryListNo": "650900385131",
+        "paymentTermNo": 1,
+        "collectionName": "รหัส 1020200000 ลวดอลูมิเนียมแบน 1x10 มม.",
+        "totalAmount": 5291070.82,
+        "payAmount": 5291070.82
+      },
+      {
+        "projectNo": "65037497082",
+        "contractId": "650801005053",
+        "deliveryListNo": "650900385132",
+        "paymentTermNo": 1,
+        "collectionName": "รหัส 1020320003 คอนเนคเตอร์ชนิดบีบแบบเอช สำหรับสายเข้าอลูมิเนียม 50-95 ต.มม.  สายแยกอลูมิเนียมหรือทองแดง 50-95 ต.มม.",
+        "totalAmount": 1633542.25,
+        "payAmount": 1633542.25
+      },
+      {
+        "projectNo": "65037497082",
+        "contractId": "650801005046",
+        "deliveryListNo": "650801230323",
+        "paymentTermNo": 1,
+        "collectionName": "รหัส 1040020100 ฟิวส์สวิตช์แรงต่ำ 1x400 แอมป์ 500 โวลท์",
+        "totalAmount": 2455650.00,
+        "payAmount": 2455650.00
+      }
+    ],
+    "contractBudget": [
+      {
+        "projectNo": "65037497082",
+        "contractId": "650801005046",
+        "deliveryListNo": "650801230323",
+        "paymentTermNo": 1,
+        "no": 1,
+        "budgetYear": "2565",
+        "budgetTypeId": 2,
+        "projectMoney": 23643255.00,
+        "paymentTermAmount": 2455650.00
+      },
+      {
+        "projectNo": "65037497082",
+        "contractId": "650801003808",
+        "deliveryListNo": "650800882102",
+        "paymentTermNo": 1,
+        "no": 1,
+        "budgetYear": "2565",
+        "budgetTypeId": 2,
+        "projectMoney": 23643255.00,
+        "paymentTermAmount": 1064115.00
+      },
+      {
+        "projectNo": "65037497082",
+        "contractId": "650801003813",
+        "deliveryListNo": "650800891579",
+        "paymentTermNo": 1,
+        "no": 1,
+        "budgetYear": "2565",
+        "budgetTypeId": 2,
+        "projectMoney": 23643255.00,
+        "paymentTermAmount": 5621539.79
+      },
+      {
+        "projectNo": "65037497082",
+        "contractId": "650801005053",
+        "deliveryListNo": "650900385131",
+        "paymentTermNo": 1,
+        "no": 1,
+        "budgetYear": "2565",
+        "budgetTypeId": 2,
+        "projectMoney": 23643255.00,
+        "paymentTermAmount": 5291070.82
+      },
+      {
+        "projectNo": "65037497082",
+        "contractId": "650801005053",
+        "deliveryListNo": "650900385132",
+        "paymentTermNo": 1,
+        "no": 1,
+        "budgetYear": "2565",
+        "budgetTypeId": 2,
+        "projectMoney": 23643255.00,
+        "paymentTermAmount": 1633542.25
+      }
+    ],
+    "contractReference": [
+      {
+        "projectNo": "65037497082",
+        "contractId": "650801003808",
+        "deliveryListNo": "650800882102",
+        "paymentTermNo": 1,
+        "termNo": 1
+      },
+      {
+        "projectNo": "65037497082",
+        "contractId": "650801003813",
+        "deliveryListNo": "650800891579",
+        "paymentTermNo": 1,
+        "termNo": 1
+      },
+      {
+        "projectNo": "65037497082",
+        "contractId": "650801005053",
+        "deliveryListNo": "650900385131",
+        "paymentTermNo": 1,
+        "termNo": 1
+      },
+      {
+        "projectNo": "65037497082",
+        "contractId": "650801005053",
+        "deliveryListNo": "650900385132",
+        "paymentTermNo": 1,
+        "termNo": 1
+      },
+      {
+        "projectNo": "65037497082",
+        "contractId": "650801005046",
+        "deliveryListNo": "650801230323",
+        "paymentTermNo": 1,
+        "termNo": 1
+      }
+    ]
+  },
+  "code": 200,
+  "message": "ok"
+}
